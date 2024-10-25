@@ -1,65 +1,43 @@
-{   
+{
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
+        "source": "https://github.com/224spy/efas.git",
+        "branch": "v3",
+        "env": { 
+            "API_HASH": "b3dd0966fc51839ea8b38a0f26ac5961",
+            "API_ID": "27998963",
+            "BOT_TOKEN": "7710239528:AAHZ1UjKPYlKuEdKxHMozyBJULqVjiRSRcQ",
+            "CHANNEL_ID": "-1002440753317",
+            "LOG_GROUP": "-1002464282486",
+            "MONGO_DB": "mongodb+srv://224spy:224spy@cluster0.nehztct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "OWNER_ID": "8174340334"  
         },
         "run": "run.sh"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
+        "source": "https://github.com/224spy/efas.git",
+        "branch": "v3",
+        "env": { 
+            "API_HASH": "b3dd0966fc51839ea8b38a0f26ac5961",
+            "API_ID": "27998963",
+            "BOT_TOKEN": "7848662110:AAHBRGlxG0PORmPdvhcf_mr0eWon5KPt8U0",
+            "CHANNEL_ID": "-1002440753317",
+            "LOG_GROUP": "-1002268681182",
+            "MONGO_DB": "mongodb+srv://224spy:224spy@cluster0.nehztct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "OWNER_ID": "8174340334"  
         },
         "run": "run.sh"
     },
     "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
+        "source": "https://github.com/224spy/efas.git",
+        "branch": "v3",
+        "env": { 
+            "API_HASH": "b3dd0966fc51839ea8b38a0f26ac5961",
+            "API_ID": "27998963",
+            "BOT_TOKEN": "7292736641:AAFpmo_SSrEGJZAcfjTm-3_gOmSd3Bfgym8",
+            "CHANNEL_ID": "-1002440753317",
+            "LOG_GROUP": "-1002435865658",
+            "MONGO_DB": "mongodb+srv://224spy:224spy@cluster0.nehztct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "OWNER_ID": "8174340334"  
         },
         "run": "run.sh"
     }
