@@ -11,7 +11,7 @@
             "MONGO_DB": "mongodb+srv://224spy:224spy@cluster0.nehztct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "OWNER_ID": "8174340334"  
         },
-        "run": "python3 -m safe_repo"
+        "run": "safe_repo"
     },
     "bot2": {
         "source": "https://github.com/224spy/efas.git",
